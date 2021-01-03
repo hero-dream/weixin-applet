@@ -3,12 +3,17 @@
 		<image class="logo" src="/static/logo.png"></image>
 		<view>
 			<text class="title">{{title}}</text>
+			<text class="left">123</text>
 		</view>
+		<search></search>
 	</view>
+
 </template>
 
 <script>
+import search from '../../components/search'
 	export default {
+		components:{search},
 		data() {
 			return {
 				title: 'Hello'
