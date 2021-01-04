@@ -9,7 +9,7 @@
 		}
 	],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
+		"navigationBarTextStyle": "white",
 		"navigationBarTitleText": "爽歪歪购物",
 		"navigationBarBackgroundColor": "#e21918",
 		"backgroundColor": "#ffffff"
